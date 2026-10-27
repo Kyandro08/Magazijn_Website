@@ -8,7 +8,7 @@ require_once "db.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lend | Magazijns Website</title>
+    <title>Lend | Magazijn Website</title>
     <link rel="stylesheet" href="lenen.css?v=3">
     
 </head>

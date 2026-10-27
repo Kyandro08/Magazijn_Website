@@ -8,7 +8,7 @@ require_once "db.php";
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Contact | Magazijns Website</title>
+	<title>Contact | Magazijn Website</title>
 	<link rel="stylesheet" href="contact.css?v=3">
 </head>
 <body>
@@ -26,7 +26,8 @@ require_once "db.php";
 		</nav>
 	</header>
 
-		<p>Dit is de contactpagina</p>
+		<p> als jullie vragen hebben over het lenen kunnen jullie hier contact met ons opzoeken.</p>
+		<p> nigga</p>
 
 </body>
 </html>
